@@ -1,0 +1,33 @@
+body{
+    background: #128B4A;
+}
+.whitebackground{
+    border: 2px solid white;
+    border-radius: 5px;
+    background: white;
+}
+.margin-logo{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.margin-header{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.margin-main{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.margin-footer{
+    margin-top:5px;
+    margin-bottom:5px;  
+}
+.footer-a-mr{
+    text-decoration: underline;
+    text-align: center;
+}
+.footer-p-mr{
+    margin-top: 3px;
+    text-align: left;
+    text-align: center;
+}
