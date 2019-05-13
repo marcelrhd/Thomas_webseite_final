@@ -15,9 +15,25 @@
     margin-top:5px;
     margin-bottom:5px;
 }
+.margin-main-left-card{
+    margin-left: 30px;
+}
+.margin-main-right-card{
+    margin-right: 0px;
+}
 .main-p-mr{
     text-align:justify;
     font-size: 100%;
+}
+.card-mr{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+.card-body-mr{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .margin-footer{
     margin-top:5px;
