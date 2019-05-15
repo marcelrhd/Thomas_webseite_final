@@ -15,11 +15,9 @@
     margin-top:5px;
     margin-bottom:5px;
 }
-.margin-main-left-card{
-    margin-left: 30px;
-}
-.margin-main-right-card{
-    margin-right: 0px;
+.margin-main-card{
+    margin-top:5px;
+    margin-bottom:5px;
 }
 .main-p-mr{
     text-align:justify;
@@ -29,6 +27,8 @@
     border: 1px solid lightgrey;
     border-radius: 5px;
 }
+/* Cards CSS Anfang*/
+/* Cards CSS Ende*/
 .card-body-mr{
     padding-left: 10px;
     padding-right: 10px;
